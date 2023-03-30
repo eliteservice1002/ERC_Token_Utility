@@ -1,0 +1,10 @@
+# hardhat build files
+/artifacts
+/cache
+
+# node modules
+node_modules
+
+# Ad hoc
+/scripts/token_info.json
+/.env
